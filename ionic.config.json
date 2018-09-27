@@ -1,0 +1,8 @@
+{
+  "name": "jmApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "01c92c70"
+}
